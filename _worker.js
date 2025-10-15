@@ -1,3 +1,4 @@
+//
 import { connect } from 'cloudflare:sockets';
 
 let authToken = '351c9981-04b6-4103-aa4b-864aa9c91469';
